@@ -1,0 +1,3 @@
+Atenção!!!
+
+Os arquivos "ceel.cls", "logoDES.png", "logoUEM.png" e "resumo.tex" devem estar todos no mesmo diretório de trabalho. 

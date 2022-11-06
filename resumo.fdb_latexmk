@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1667763752 "c:/Users/lucas/OneDrive/Documentos/pessoal/resumo-semana-estat-stica/resumo.tex" "resumo.pdf" "resumo" 1667763755
+["pdflatex"] 1667764261 "c:/Users/lucas/OneDrive/Documentos/pessoal/resumo-semana-estat-stica/resumo.tex" "resumo.pdf" "resumo" 1667764266
   "C:/Users/lucas/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1667762701 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/lucas/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1667762484 10788010 dfbeddd2e2372814307402e75fdacc0c ""
   "C:/Users/lucas/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 1194fb36dfcb11d9ae9802f2b00b60a3 ""
@@ -96,11 +96,11 @@
   "C:/Users/lucas/AppData/Local/Programs/MiKTeX/tex/latex/tools/indentfirst.sty" 1654690828 1618 6f0598aa81f9ba5cf5d393b4abd3e091 ""
   "C:/Users/lucas/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1654690828 32329 5d201ab4b4c773e7c876c2a052b07be3 ""
   "C:/Users/lucas/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/Users/lucas/OneDrive/Documentos/pessoal/resumo-semana-estat-stica/resumo.tex" 1667763751 1162 3bb9a6a4027cff7820a79c280d644092 ""
-  "ceel.cls" 1667762306 3135 8f0f60696d0ccd69286f132b0d3c2221 ""
+  "c:/Users/lucas/OneDrive/Documentos/pessoal/resumo-semana-estat-stica/resumo.tex" 1667763767 1162 3bb9a6a4027cff7820a79c280d644092 ""
+  "ceel.cls" 1667764256 3135 8f0f60696d0ccd69286f132b0d3c2221 ""
   "logoDESb.png" 1667762306 63228 756eed63f1069dbc9de957563525c393 ""
   "logoUEM.png" 1667762306 94077 1304b92fed5dbdb8263556c71792a531 ""
-  "resumo.aux" 1667763755 656 23f6d86d049303413dfcd0f44eb86c59 "pdflatex"
+  "resumo.aux" 1667764265 656 23f6d86d049303413dfcd0f44eb86c59 "pdflatex"
   "resumo.out" 0 -1 0 "pdflatex"
   (generated)
   "resumo.aux"
